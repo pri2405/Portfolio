@@ -25,7 +25,7 @@ function Projects() {
             title: "Portfolio",
             desc: "this portfolio website is build with reactjs, tailwind css. this website represents me with my skills.",
             image: portfolio,
-            github: ""
+            github: "https://github.com/pri2405/Portfolio/"
         },
         {
             title: "Simon say game",
